@@ -71,7 +71,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Swift Testing Expert](https://github.com/AvdLee/Swift-Testing-Agent-Skill) by [Antoine van der Lee](https://github.com/AvdLee)
 
 
-### Swift Testing Skills
+### Swift Language Skills
 
 - [Swift API Design Guidelines Agent Skill](https://github.com/Erikote04/Swift-API-Design-Guidelines-Agent-Skill) by [Erik Sebastián de Erice](https://github.com/Erikote04)
 
