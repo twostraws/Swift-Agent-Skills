@@ -31,6 +31,7 @@ The skills listed here are open source, so please take the time to read through 
 - [App Store Skills](#app-store-skills)
 - [Architecture Skills](#architecture-skills)
 - [Core Data Skills](#core-data-skills)
+- [Networking Skills](#networking-skills)
 - [Performance Skills](#performance-skills)
 - [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
@@ -95,11 +96,17 @@ The skills listed here are open source, so please take the time to read through 
 ### Architecture Skills
 
 - [Swift Architecture Skill](https://github.com/efremidze/swift-architecture-skill) by [Lasha Efremidze](https://github.com/efremidze)
+- [iOS Architecture Skill](https://github.com/koshkinvv/ios-agent-skills) by [Vladimir Koshkin](https://github.com/koshkinvv)
 
 
 ### Core Data Skills
 
 - [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) by [Antoine van der Lee](https://github.com/AvdLee)
+
+
+### Networking Skills
+
+- [iOS Networking Skill](https://github.com/koshkinvv/ios-agent-skills) by [Vladimir Koshkin](https://github.com/koshkinvv)
 
 
 ### Performance Skills
@@ -110,6 +117,7 @@ The skills listed here are open source, so please take the time to read through 
 ### Security Skills
 
 - [Swift Security Expert](https://github.com/ivan-magda/swift-security-skill) by [Ivan Magda](https://github.com/ivan-magda)
+- [iOS Security Skill](https://github.com/koshkinvv/ios-agent-skills) by [Vladimir Koshkin](https://github.com/koshkinvv)
 
 
 ### Tool Skills
