@@ -126,7 +126,7 @@ The skills listed here are open source, so please take the time to read through 
 
 If you’d prefer an AGENTS.md / CLAUDE.md file over an agent skill, this is for you:
 
-- [SwiftAgents](https://github.com/twostraws/swiftagents) by [Paul Hudson](https://github.com/twostraws)
+- [SwiftAgents](https://github.com/twostraws/SwiftAgents)by [Paul Hudson](https://github.com/twostraws)
 
 
 ## More Links to Read
