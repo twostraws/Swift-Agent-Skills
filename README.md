@@ -154,7 +154,7 @@ You also agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-This repository was created by [Paul Hudson](https://twitter.com/twostraws), who writes [free Swift tutorials over at Hacking with Swift](https://www.hackingwithswift.com). The repository itself is available under the [MIT License](LICENSE), which permits commercial use, modification, distribution, and private use, but the links and summaries belong to others.
+This repository was created by [Paul Hudson](https://x.com/twostraws), who writes [free Swift tutorials over at Hacking with Swift](https://www.hackingwithswift.com). The repository itself is available under the [MIT License](LICENSE), which permits commercial use, modification, distribution, and private use, but the links and summaries belong to others.
 
 **I don’t own the content in most of the linked repositories, and they each have their own licenses that you should read as appropriate. Being listed here is not an endorsement from me.**
 
