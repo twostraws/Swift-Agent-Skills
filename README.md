@@ -76,6 +76,7 @@ The skills listed here are open source, so please take the time to read through 
 ### Swift Language Skills
 
 - [Swift API Design Guidelines Agent Skill](https://github.com/Erikote04/Swift-API-Design-Guidelines-Agent-Skill) by [Erik Sebastián de Erice](https://github.com/Erikote04)
+- [Swift FormatStyle Skill](https://github.com/n0an/Swift-FormatStyle-Agent-Skill) by [Anton Novoselov](https://github.com/n0an)
 
 
 ### Accessibility Skills
