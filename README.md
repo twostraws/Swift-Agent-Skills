@@ -92,6 +92,7 @@ The skills listed here are open source, so please take the time to read through 
 - [App Store Connect CLI](https://github.com/rudrankriyam/app-store-connect-cli-skills) by [Rudrank Riyam](https://github.com/rudrankriyam)
 - [App Store Changelog](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
 - [App Store ASO Optimization](https://github.com/timbroddin/app-store-aso-skill) by [Tim Broddin](https://github.com/timbroddin)
+- [App Store Review](https://github.com/3paws-ai/mobile-ai-skills/tree/main/skills/appstore-review) by [Dann Beauregard](https://github.com/dannbeau) and [3 Paws AI Studio](https://github.com/3paws-ai)
 
 
 ### Architecture Skills
