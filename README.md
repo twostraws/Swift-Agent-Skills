@@ -140,6 +140,7 @@ The skills listed here are open source, so please take the time to read through 
 - [iOS Simulator Skill](https://github.com/conorluddy/ios-simulator-skill) by [Conor Luddy](https://github.com/conorluddy)
 - [Figma to SwiftUI Skill](https://github.com/daetojemax/figma-to-swiftui-skill) by [Ermolaev Maxim](https://github.com/daetojemax)
 
+- [linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) by [Linked API](https://github.com/Linked-API)
 ### User Interface Skills
 
 - [Writing for Interfaces Skill](https://github.com/andrewgleave/skills/tree/main/writing-for-interfaces) by [Andrew Gleave](https://github.com/andrewgleave)
