@@ -61,6 +61,7 @@ The skills listed here are open source, so please take the time to read through 
 
 - [SwiftData Pro](https://github.com/twostraws/SwiftData-Agent-Skill) by [Paul Hudson](https://github.com/twostraws)
 - [SwiftData Expert](https://github.com/vanab/swiftdata-agent-skill) by [Kudrin Dmitry](https://github.com/vanab)
+- [SwiftData Testing](https://github.com/akshaypimprikar/ios-swiftdata-testing-agent-skill) by [Akshay Pimprikar](https://github.com/akshaypimprikar)
 
 
 ### Swift Concurrency Skills
