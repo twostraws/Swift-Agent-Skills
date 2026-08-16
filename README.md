@@ -34,6 +34,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Background Execution Skills](#background-execution-skills)
 - [Core Data Skills](#core-data-skills)
 - [Focus Management Skills](#focus-management-skills)
+- [Observability Skills](#observability-skills)
 - [Performance Skills](#performance-skills)
 - [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
@@ -122,6 +123,11 @@ The skills listed here are open source, so please take the time to read through 
 ### Focus Management Skills
 
 - [Swift FocusEngine Pro](https://github.com/mhaviv/Swift-FocusEngine-Agent-Skill) by [Michael Haviv](https://github.com/mhaviv)
+
+
+### Observability Skills
+
+- [Observability Skill](https://github.com/n0an/Observability-Agent-Skill) by [Anton Novoselov](https://github.com/n0an)
 
 
 ### Performance Skills
