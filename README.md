@@ -142,6 +142,7 @@ The skills listed here are open source, so please take the time to read through 
 ### Codebase Audit Skills
 
 - [iOS Code Audit](https://github.com/jazzychad/ios-code-audit) by [Chad Etzel](https://github.com/jazzychad)
+- [Deterministic PR Gates](https://github.com/akshaypimprikar/deterministic-pr-gates-agent-skill) by [Akshay Pimprikar](https://github.com/akshaypimprikar)
 
 ### Tool Skills
 
