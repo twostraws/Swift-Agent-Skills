@@ -56,8 +56,7 @@ The skills listed here are open source, so please take the time to read through 
 - [SwiftUI UI Patterns](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
 - [SwiftUI Design Principles](https://github.com/arjitj2/swiftui-design-principles) by [Arjit Jaiswal](https://github.com/arjitj2)
 - [SwiftUI View Refactor](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
-- [SwiftUI Liquid Glass](https://github.com/FloWritesCode/fwc-swiftui-skills) by [Florian Schweizer](https://github.com/FloWritesCode)
-- [SwiftUI for iPhone Duo](https://github.com/FloWritesCode/fwc-swiftui-skills) by [Florian Schweizer](https://github.com/FloWritesCode)
+- [SwiftUI Liquid Glass & iPhone Duo](https://github.com/FloWritesCode/fwc-swiftui-skills) by [Florian Schweizer](https://github.com/FloWritesCode)
 
 
 ### SwiftData Skills
