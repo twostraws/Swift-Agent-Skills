@@ -33,6 +33,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Architecture Skills](#architecture-skills)
 - [Background Execution Skills](#background-execution-skills)
 - [Core Data Skills](#core-data-skills)
+- [Debugging Skills](#debugging-skills)
 - [Focus Management Skills](#focus-management-skills)
 - [Observability Skills](#observability-skills)
 - [Performance Skills](#performance-skills)
@@ -118,6 +119,11 @@ The skills listed here are open source, so please take the time to read through 
 ### Core Data Skills
 
 - [Core Data Expert](https://github.com/AvdLee/Core-Data-Agent-Skill) by [Antoine van der Lee](https://github.com/AvdLee)
+
+
+### Debugging Skills
+
+- [Apple Debugging Skill](https://github.com/n0an/Apple-Debugging-Agent-Skill) by [Anton Novoselov](https://github.com/n0an)
 
 
 ### Focus Management Skills
