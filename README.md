@@ -23,6 +23,7 @@ The skills listed here are open source, so please take the time to read through 
 #### Agent Skills
 
 - [SwiftUI Skills](#swiftui-skills)
+- [UIKit Skills](#uikit-skills)
 - [SwiftData Skills](#swiftdata-skills)
 - [Swift Concurrency Skills](#swift-concurrency-skills)
 - [Swift Testing Skills](#swift-testing-skills)
@@ -57,6 +58,11 @@ The skills listed here are open source, so please take the time to read through 
 - [SwiftUI Design Principles](https://github.com/arjitj2/swiftui-design-principles) by [Arjit Jaiswal](https://github.com/arjitj2)
 - [SwiftUI View Refactor](https://github.com/Dimillian/Skills) by [Thomas Ricouard](https://github.com/Dimillian)
 - [SwiftUI Liquid Glass & iPhone Duo](https://github.com/FloWritesCode/fwc-swiftui-skills) by [Florian Schweizer](https://github.com/FloWritesCode)
+
+
+### UIKit Skills
+
+- [UIKit Expert](https://github.com/ivan-magda/uikit-expert-skill) by [Ivan Magda](https://github.com/ivan-magda)
 
 
 ### SwiftData Skills
