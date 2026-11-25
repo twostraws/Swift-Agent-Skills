@@ -23,7 +23,6 @@ The skills listed here are open source, so please take the time to read through 
 #### Agent Skills
 
 - [SwiftUI Skills](#swiftui-skills)
-- [UIKit Skills](#uikit-skills)
 - [SwiftData Skills](#swiftdata-skills)
 - [Swift Concurrency Skills](#swift-concurrency-skills)
 - [Swift Testing Skills](#swift-testing-skills)
@@ -39,6 +38,7 @@ The skills listed here are open source, so please take the time to read through 
 - [Performance Skills](#performance-skills)
 - [Security Skills](#security-skills)
 - [Tool Skills](#tool-skills)
+- [UIKit Skills](#uikit-skills)
 - [User Interface Skills](#user-interface-skills)
 - [Widgets Skills](#widgets-skills)
 
